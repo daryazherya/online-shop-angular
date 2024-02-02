@@ -1,0 +1,43 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "MacBook Air 2022",
+        "price": "1000",
+        "image": "assets/MacBook.png"
+      },
+      {
+        "id": 2,
+        "title": "MacBook Pro 2019",
+        "price": "1000",
+        "image": "assets/MacBook.png"
+      },
+      {
+        "id": 3,
+        "title": "MacBook Pro 2023",
+        "price": "1500",
+        "image": "assets/MacBook.png"
+      },
+      {
+        "id": 4,
+        "title": "MacBook Pro 2023",
+        "price": "5",
+        "year": "12123",
+        "image": "assets/MacBook.png"
+      },
+      {
+        "id": 5,
+        "title": "123",
+        "price": "5",
+        "year": "12123",
+        "image": "assets/MacBook.png"
+      },
+      {
+        "id": 6,
+        "title": "123",
+        "price": "5",
+        "year": "12123",
+        "image": "assets/MacBook.png"
+      }
+    ]
+  }

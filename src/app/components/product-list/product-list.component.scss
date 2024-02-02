@@ -1,0 +1,17 @@
+.wrapper-products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card {
+    width: 300px;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    margin: 8px;
+}
+
+.card__button {
+    margin-right: 8px;
+}
